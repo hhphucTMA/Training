@@ -13,17 +13,17 @@
   <CanvasApps>
     <CanvasApp>
       <Name>crafb_training_d84f9</Name>
-      <AppVersion>2022-05-26T06:48:57Z</AppVersion>
+      <AppVersion>2022-05-27T07:02:18Z</AppVersion>
       <Status>Ready</Status>
-      <CreatedByClientVersion>3.22052.26.0</CreatedByClientVersion>
-      <MinClientVersion>3.22052.26.0</MinClientVersion>
-      <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.22052.26","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","sienaVersion":"20220526T064857Z-3.22052.26.0"}</Tags>
+      <CreatedByClientVersion>3.22052.27.0</CreatedByClientVersion>
+      <MinClientVersion>3.22052.27.0</MinClientVersion>
+      <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.22052.27","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","sienaVersion":"20220526T064857Z-3.22052.26.0"}</Tags>
       <IsCdsUpgraded>0</IsCdsUpgraded>
       <GalleryItemId xsi:nil="true"></GalleryItemId>
       <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
       <DisplayName>Training</DisplayName>
       <Description xsi:nil="true"></Description>
-      <CommitMessage xsi:nil="true"></CommitMessage>
+      <CommitMessage>tk2: add new text</CommitMessage>
       <Publisher xsi:nil="true"></Publisher>
       <AuthorizationReferences>[]</AuthorizationReferences>
       <ConnectionReferences>{}</ConnectionReferences>
